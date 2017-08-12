@@ -196,6 +196,7 @@ banner .learn {
 
 .text {
   display: block;
+  margin-left: 16px;
   margin-right: 24px;
 }
 
